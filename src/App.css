@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+.List {
+  margin: 5% 35% 0 35%;
+}
+
+.items {
+  margin: 1rem;
+}
+
+body {
+  background-color: aqua;
+}
